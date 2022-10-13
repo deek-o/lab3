@@ -1,9 +1,6 @@
+my name is john
 
 Greg Johnston
 
 Declan English
 
-<<<<<<< HEAD
-John Smith
-=======
->>>>>>> fa160f13767885eaafb29989cc2cff1166281814
